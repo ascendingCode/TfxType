@@ -1,0 +1,9 @@
+#main-container{
+    height: 100vh;
+}
+#type-result-card{
+    height: 0;
+    width: 0;
+    overflow: hidden;
+    transition: height 2s;
+}
